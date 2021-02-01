@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.804f6c20.chunk.css",
+    "main.js": "/static/js/main.76b6dbec.chunk.js",
+    "main.js.map": "/static/js/main.76b6dbec.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.132bc1c8.js",
+    "runtime-main.js.map": "/static/js/runtime-main.132bc1c8.js.map",
+    "static/css/2.150d169a.chunk.css": "/static/css/2.150d169a.chunk.css",
+    "static/js/2.f665cc3e.chunk.js": "/static/js/2.f665cc3e.chunk.js",
+    "static/js/2.f665cc3e.chunk.js.map": "/static/js/2.f665cc3e.chunk.js.map",
+    "static/js/3.c2a3d351.chunk.js": "/static/js/3.c2a3d351.chunk.js",
+    "static/js/3.c2a3d351.chunk.js.map": "/static/js/3.c2a3d351.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.804f6c20.chunk.css.map": "/static/css/main.804f6c20.chunk.css.map",
+    "static/js/2.f665cc3e.chunk.js.LICENSE.txt": "/static/js/2.f665cc3e.chunk.js.LICENSE.txt",
+    "static/media/free-portfolio-plugins.f11173c3.jpg": "/static/media/free-portfolio-plugins.f11173c3.jpg",
+    "static/media/contacts.css": "/static/media/modern-background-social-media-icons_1017-4839.b938abed.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.132bc1c8.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.f665cc3e.chunk.js",
+    "static/css/main.804f6c20.chunk.css",
+    "static/js/main.76b6dbec.chunk.js"
+  ]
+}
